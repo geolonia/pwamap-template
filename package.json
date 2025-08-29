@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "pwamap-cli start --load ./data.csv",
+    "start": "pwamap-cli start ./data.csv",
+    "build": "pwamap-cli build ./data.csv --outDir ./dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
