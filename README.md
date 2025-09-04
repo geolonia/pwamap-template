@@ -1,6 +1,6 @@
 # pwamap-template
 
-Geolonia PWA Map テンプレート は、GitHub と Google Sheets を使って、素早く PWA の地図アプリが作れるテンプレートです。
+Geolonia PWA Map テンプレート は、GitHub と CSV を使って、素早く PWA の地図アプリが作れるテンプレートです。
 
 ## 使い方
 
