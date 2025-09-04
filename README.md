@@ -1,8 +1,12 @@
-# pwamap-template
+# PWA MAP Template
 
 Geolonia PWA Map テンプレート は、GitHub と CSV を使って、素早く PWA の地図アプリが作れるテンプレートです。
 
-## 使い方
+## ご利用方法
+
+* [[Use this template]](https://github.com/geolonia/pwamap-template/generate) ボタンをクリックして、このテンプレートを自分のリポジトリにコピーしてください。
+* GitHub Pages を設定してください。
+* `data.csv` を以下の通りに編集してコミットすると数分後に、`https://<あなたのGitHubユーザー名>.github.io/<リポジトリ名>/` 形式の URL に編集したデータを表示する地図アプリが立ち上がります。（[サンプル URL](https://geolonia.github.io/pwamap-template/)）
 
 ## データ形式 (`data.csv`)
 
