@@ -8,9 +8,7 @@
     "build": "pwamap-cli build ./data.csv",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "pwamap-cli": "git+https://github.com/geolonia/pwamap-cli.git"
+    "pwamap-cli":  "git+https://github.com/geolonia/pwamap-cli.git"
   }
 }
