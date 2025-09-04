@@ -31,5 +31,3 @@ https://geolonia.github.io/pwamap-template/
 *   `Twitter`
 *   `公式サイト`
 *   `Facebook`
-
-各列のデータは、マップ上のピンや情報ウィンドウに表示されます。
