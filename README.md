@@ -11,6 +11,7 @@ Geolonia PWA Map テンプレート は、GitHub と CSV を使って、素早�
 * [[Use this template]](https://github.com/geolonia/pwamap-template/generate) ボタンをクリックして、このテンプレートを自分のリポジトリにコピーしてください。
 * GitHub Pages を設定してください。
 * `data.csv` を以下の通りに編集してコミットすると数分後に、`https://<あなたのGitHubユーザー名>.github.io/<リポジトリ名>/` 形式の URL に編集したデータを表示する地図アプリが立ち上がります。（[サンプル URL](https://geolonia.github.io/pwamap-template/)）
+* ファイル名は変更しないでください。
 
 ## データ形式 (`data.csv`)
 
