@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "pwamap-cli start ./data.csv",
-    "build": "pwamap-cli build ./data.csv",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "pwamap-cli build ./data.csv"
   },
   "dependencies": {
     "pwamap-cli":  "git+https://github.com/geolonia/pwamap-cli.git"
