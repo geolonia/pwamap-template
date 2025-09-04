@@ -2,20 +2,23 @@
 
 Geolonia PWA Map テンプレート は、GitHub と CSV を使って、素早く PWA の地図アプリが作れるテンプレートです。
 
-
-<img width="1235" height="799" alt="スクリーンショット 2025-09-04 15 25 01" src="https://github.com/user-attachments/assets/23b73de5-3ff7-4893-916f-b4a3dfe08f84" />
-
+【デモURL】  
+https://geolonia.github.io/pwamap-template/
 
 ## ご利用方法
 
 * [[Use this template]](https://github.com/geolonia/pwamap-template/generate) ボタンをクリックして、このテンプレートを自分のリポジトリにコピーしてください。
-* GitHub Pages を設定してください。
 * `data.csv` を以下の通りに編集してコミットすると数分後に、`https://<あなたのGitHubユーザー名>.github.io/<リポジトリ名>/` 形式の URL に編集したデータを表示する地図アプリが立ち上がります。（[サンプル URL](https://geolonia.github.io/pwamap-template/)）
 * ファイル名は変更しないでください。
 
-## データ形式 (`data.csv`)
+## 1. GitHub Pages の設定
 
-マップに表示するスポット情報は `data.csv` ファイルで管理します。このファイルは以下のヘッダーを持つCSV形式である必要があります。
+* [Settings] タブ > [Pages] > [GitHub Actions] を選択します。
+<img width="600" alt="スクリーンショット 2025-09-04 15 35 10" src="https://github.com/user-attachments/assets/6fb61958-8038-422f-9a75-9a212f9abc54" />
+
+## 2. データの編集 (`data.csv`)
+
+マップに表示するスポット情報は `data.csv` ファイルで管理します。このファイルは以下のヘッダーを持つCSV形式である必要があります。編集して GitHub にアップロードすると地図アプリが作成されます。
 
 *   `タイムスタンプ`
 *   `カテゴリ`
