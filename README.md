@@ -2,6 +2,10 @@
 
 Geolonia PWA Map テンプレート は、GitHub と CSV を使って、素早く PWA の地図アプリが作れるテンプレートです。
 
+
+<img width="1235" height="799" alt="スクリーンショット 2025-09-04 15 25 01" src="https://github.com/user-attachments/assets/23b73de5-3ff7-4893-916f-b4a3dfe08f84" />
+
+
 ## ご利用方法
 
 * [[Use this template]](https://github.com/geolonia/pwamap-template/generate) ボタンをクリックして、このテンプレートを自分のリポジトリにコピーしてください。
