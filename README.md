@@ -13,6 +13,9 @@ https://geolonia.github.io/pwamap-template/
 
 ## 1. GitHub Pages の設定
 
+* [Actions] タブ > [I understand my workflows, go ahead and enable them] を選択します。
+<img width="600" alt="スクリーンショット 2025-09-05 9 37 59" src="https://github.com/user-attachments/assets/4f92bd27-3858-4fc0-8a0b-46a7b687b567" />
+
 * [Settings] タブ > [Pages] > [GitHub Actions] を選択します。
 <img width="600" alt="スクリーンショット 2025-09-04 15 35 10" src="https://github.com/user-attachments/assets/6fb61958-8038-422f-9a75-9a212f9abc54" />
 
