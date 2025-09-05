@@ -7,7 +7,7 @@ https://geolonia.github.io/pwamap-template/
 
 ## ご利用方法
 
-* [[Use this template]](https://github.com/geolonia/pwamap-template/generate) ボタンをクリックして、このテンプレートを自分のリポジトリにコピーしてください。
+* [[Fork]](https://github.com/geolonia/pwamap-template/fork) ボタンをクリックして、このテンプレートを自分のリポジトリにフォークしてください。
 * `data.csv` を以下の通りに編集してコミットすると数分後に、`https://<あなたのGitHubユーザー名>.github.io/<リポジトリ名>/` 形式の URL で地図アプリが立ち上がります。（[サンプル URL](https://geolonia.github.io/pwamap-template/)）
 * ファイル名は変更しないでください。
 
